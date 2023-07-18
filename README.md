@@ -5,7 +5,7 @@ Congratulations you found the first one!
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-# 👀 Hola Bienvenido a mi perfil! 👋🏻 
+# 👀 Hola Bienvenid@s a mi perfil! 👋🏻 
 
 **Soy un programador versátil y siempre estoy dispuesto a aprender nuevas tecnologías y enfoques. Me mantengo actualizado en las últimas tendencias del campo de la programación y estoy constantemente buscando formas de mejorar mis habilidades.**
 
